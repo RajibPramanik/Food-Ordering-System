@@ -51,4 +51,20 @@ A campus-focused solution that allows students to:
 - **User Interface Design:** Login, signup, menu, feedback, booking pages  
 - **Frontend Development:** HTML, CSS, JS for interaction  
 - **Backend Development:** PHP/JS for logic & data handling  
-- **Database:** Store user, menu, orders, booking, feedback  
+- **Database:** Store user, menu, orders, booking, feedback
+
+---
+
+## 🔮 Future Enhancements
+- Online payment integration 💳
+- Hostel delivery & location map 🏠
+- Discount coupons & offers 🎟
+- Push notifications for order updates 📢
+- More attractive UI 🎨
+
+---
+
+## ✅ Conclusion
+- Solves campus cafeteria problems.
+- Saves time, reduces wait, improves service.
+- Provides enjoyable and efficient dining experience.
